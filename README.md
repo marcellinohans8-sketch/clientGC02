@@ -4,8 +4,6 @@
 
 > Tuliskan API Docs kamu di sini
 
-# P2-Challenge-2 (Client Side)
-
 ## API Documentation
 
 ### Base URL
